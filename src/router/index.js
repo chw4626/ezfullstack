@@ -11,6 +11,7 @@ import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
 import locale from 'element-ui/lib/locale/lang/en'
 
+
 Vue.use(Router)
 Vue.prototype.$ajax=Axios
 Vue.use(qs)
